@@ -1,8 +1,9 @@
 {
     "name": "#1 §upersonic fusion",
     "symbol": "SUPERSONIC",
+    "edition": "1"
     "description": "Supersonic is the first meme music video hosted entirely on the blockchain. The project began with Rob Frogley, who composed a catchy song that inspired Ben Evans to create a simple, visually appealing CSS-based video to accompany it. As developer behind the Supersonic project, I'm modernized the code and deployed it on the Solana blockchain. By storing it on the blockchain, Supersonic became decentralized, permanent, and immune to traditional hosting restrictions and censorship.",
-    "image": "https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/sum1.png",
+    "image": "https://raw.githubusercontent.com/freenetcoder/SUPERSONIC_NFT/refs/heads/main/sum1.png",
     "external_url": "https://supersonicfusion.org",
     "attributes": [
     {
@@ -11,7 +12,7 @@
     },
     {
         "trait_type": "Rarity Rank",
-        "value": "0"
+        "value": "1"
     }]
 }
     
